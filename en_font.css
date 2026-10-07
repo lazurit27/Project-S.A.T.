@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.text {
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+}
+
+.toc {
+    font-family: "Michroma", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.character {
+    font-family: "Michroma", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+
+}
+
+.content {
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
